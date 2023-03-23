@@ -1,0 +1,42 @@
+.header {
+    text-align: center;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.article {
+    text-align: justify;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:10px;
+}
+.calculator {
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 
+}
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+.text-input {
+    width: 90%;
+}
+#count {
+    background-color: lightsteelblue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+#reset {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.result {
+    text-align: center;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 5px;
+}
